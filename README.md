@@ -10,8 +10,7 @@ This is a Calculator app (Bugful) done by me after studying Flutter.
 Please feel free to fork and make changes.
 
 ## Demo
-
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/64122408/96267412-60269200-0fe5-11eb-8820-583a9c961aed.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/64122408/96267548-8ea46d00-0fe5-11eb-9c3f-3aa4763800f4.gif)
 
 
 # NOTE:-
