@@ -11,7 +11,7 @@ Please feel free to fork and make changes.
 
 ## Demo
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/64122408/96267055-02924580-0fe5-11eb-9d83-62edfdd5ff07.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/64122408/96267412-60269200-0fe5-11eb-8820-583a9c961aed.gif)
 
 
 # NOTE:-
